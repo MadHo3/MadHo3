@@ -2,11 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?text=MadHo3&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p>
 
-### <b> introduction <b>
+### Introduction 📝
 
 Hi👋<br>
 I'm MHK... <br>
 A passionate coder who loves building cool projects and learning new tech. Always open to collaborate and improve :)
+
 --------------------------------------------------------------------------------------------------------------------------
 
 ### 🛠 Skills & Tools 
