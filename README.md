@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=MadHo3&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p>
 
-### introduction
+### <b> introduction <b>
 
 Hi👋<br>
 I'm MHK... <br>
