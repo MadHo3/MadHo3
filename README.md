@@ -7,7 +7,7 @@
 Hi👋<br>
 I'm MHK... <br>
 A passionate coder who loves building cool projects and learning new tech. Always open to collaborate and improve :)
-
+Computer Engineering at Shahrekord University
 --------------------------------------------------------------------------------------------------------------------------
 
 ### 🛠 Skills & Tools 
