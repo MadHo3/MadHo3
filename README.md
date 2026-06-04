@@ -17,3 +17,7 @@ Computer Engineering at Shahrekord University
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/doc/html/latest/)
 [![Network+](https://img.shields.io/badge/Network%2B-007ACC?style=for-the-badge&logo=icloud&logoColor=white)](https://www.comptia.org/certifications/network)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org)
+
+### Type Speed
+
+![](https://monkeytype-github-profile.deno.dev/profile/M4dHo3_)
