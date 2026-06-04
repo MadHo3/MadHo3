@@ -20,4 +20,4 @@ Computer Engineering at Shahrekord University
 
 ### Type Speed
 
-![](https://monkeytype-github-profile.deno.dev/profile/M4dHo3_)
+![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=M4dHo3_&theme=github&wordValue=10&timeValue=15)
