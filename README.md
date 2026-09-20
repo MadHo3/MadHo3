@@ -22,6 +22,6 @@ Computer Engineering at Shahrekord University
 
 ![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=M4dHo3_&theme=github&wordValue=10&timeValue=15)
 
-### HTB 
+### Hack The Box (HTB)
 
 [![HTB Badge](https://www.htbbadge.tech/api/badge?user=2973700)](https://app.hackthebox.com/public/users/2973700)
